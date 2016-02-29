@@ -1,0 +1,3 @@
+All parts are fulfilled.
+
+Notice that I make the wing go down and the legs bend when the bee is ascending, and vice versa. The frequencies of the bee moving up and down, flapping wings and moving legs are the same.

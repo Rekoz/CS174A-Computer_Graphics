@@ -1,0 +1,3 @@
+All the sample tests are passed.
+
+Note that for testImgPlane, I add diffuse component in order to make it the same as the sample. However, in Piazza, Garett indicated that hollow sphere only has ambient lighting. This can also be realized by uncommenting line 358, which flips the normal if the ray's origin is inside the hollow sphere.
